@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1704676959 source:c:\users\marshall abadeer\desktop\graham\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1704676959 c:\users\marshall abadeer\desktop\graham\resource.h
+
+1704680773 source:c:\users\marshall abadeer\desktop\graham\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<iostream>
+	<vector>
+	<stack>
+
