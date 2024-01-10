@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1704749003 source:c:\users\marshall abadeer\desktop\geometria computacional segmento y punto\voronoi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1584205424 c:\users\marshall abadeer\desktop\geometria computacional segmento y punto\voronoi\resource.h
+
+1704853470 source:c:\users\marshall abadeer\desktop\geometria computacional segmento y punto\voronoi\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<iostream>
+	<vector>
+	<utility>
+	<limits>
+
